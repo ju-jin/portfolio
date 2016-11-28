@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Ju Jin's online portfolio",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ju-jin/portfolio.git"
+  },
+  "keywords": [
+    "Ju",
+    "Jin",
+    "UX",
+    "design",
+    "portfolio"
+  ],
+  "author": "Ju Jin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ju-jin/portfolio/issues"
+  },
+  "homepage": "https://github.com/ju-jin/portfolio#readme"
+}
